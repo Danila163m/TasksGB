@@ -1,0 +1,15 @@
+E:\learn\Myapp\bin\Debug\net6.0\Myapp.exe
+E:\learn\Myapp\bin\Debug\net6.0\Myapp.deps.json
+E:\learn\Myapp\bin\Debug\net6.0\Myapp.runtimeconfig.json
+E:\learn\Myapp\bin\Debug\net6.0\Myapp.dll
+E:\learn\Myapp\bin\Debug\net6.0\Myapp.pdb
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.csproj.AssemblyReference.cache
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfoInputs.cache
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfo.cs
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.csproj.CoreCompileInputs.cache
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.dll
+E:\learn\Myapp\obj\Debug\net6.0\refint\Myapp.dll
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.pdb
+E:\learn\Myapp\obj\Debug\net6.0\Myapp.genruntimeconfig.cache
+E:\learn\Myapp\obj\Debug\net6.0\ref\Myapp.dll
